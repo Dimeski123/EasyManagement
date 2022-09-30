@@ -1,0 +1,35 @@
+C:\Users\nikol\source\repos\LoginSistem\LoginSistem\obj\Debug\EasyManagement.csprojAssemblyReference.cache
+C:\Users\nikol\source\repos\LoginSistem\LoginSistem\obj\Debug\LoginSistem.DirectorMenu.resources
+C:\Users\nikol\source\repos\LoginSistem\LoginSistem\obj\Debug\LoginSistem.Finances.resources
+C:\Users\nikol\source\repos\LoginSistem\LoginSistem\obj\Debug\LoginSistem.Form1.resources
+C:\Users\nikol\source\repos\LoginSistem\LoginSistem\obj\Debug\LoginSistem.List.resources
+C:\Users\nikol\source\repos\LoginSistem\LoginSistem\obj\Debug\LoginSistem.Login.resources
+C:\Users\nikol\source\repos\LoginSistem\LoginSistem\obj\Debug\LoginSistem.Properties.Resources.resources
+C:\Users\nikol\source\repos\LoginSistem\LoginSistem\obj\Debug\LoginSistem.Register.resources
+C:\Users\nikol\source\repos\LoginSistem\LoginSistem\obj\Debug\LoginSistem.RegisterEmployee.resources
+C:\Users\nikol\source\repos\LoginSistem\LoginSistem\obj\Debug\EasyManagement.csproj.GenerateResource.cache
+C:\Users\nikol\source\repos\LoginSistem\LoginSistem\obj\Debug\EasyManagement.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\LoginSistem\LoginSistem\obj\Debug\LoginSistem.Guide.resources
+C:\Users\nikol\source\repos\LoginSistem\LoginSistem\bin\Debug\Easy Management(Nikola Dimeski INKI540).exe.config
+C:\Users\nikol\source\repos\LoginSistem\LoginSistem\bin\Debug\Easy Management(Nikola Dimeski INKI540).exe.manifest
+C:\Users\nikol\source\repos\LoginSistem\LoginSistem\bin\Debug\Easy Management(Nikola Dimeski INKI540).application
+C:\Users\nikol\source\repos\LoginSistem\LoginSistem\bin\Debug\Easy Management(Nikola Dimeski INKI540).exe
+C:\Users\nikol\source\repos\LoginSistem\LoginSistem\bin\Debug\Easy Management(Nikola Dimeski INKI540).pdb
+C:\Users\nikol\source\repos\LoginSistem\LoginSistem\obj\Debug\Easy Management(Nikola Dimeski INKI540).exe.manifest
+C:\Users\nikol\source\repos\LoginSistem\LoginSistem\obj\Debug\Easy Management(Nikola Dimeski INKI540).application
+C:\Users\nikol\source\repos\LoginSistem\LoginSistem\obj\Debug\Easy Management(Nikola Dimeski INKI540).exe
+C:\Users\nikol\source\repos\LoginSistem\LoginSistem\obj\Debug\Easy Management(Nikola Dimeski INKI540).pdb
+C:\Nikola\Applications C#\LoginSistem\EasyManagement(Nikola Dimeski-INKI540)\EasyManagement\obj\Debug\EasyManagement.csprojAssemblyReference.cache
+C:\Nikola\Applications C#\LoginSistem\EasyManagement(Nikola Dimeski-INKI540)\EasyManagement\obj\Debug\LoginSistem.DirectorMenu.resources
+C:\Nikola\Applications C#\LoginSistem\EasyManagement(Nikola Dimeski-INKI540)\EasyManagement\obj\Debug\LoginSistem.Finances.resources
+C:\Nikola\Applications C#\LoginSistem\EasyManagement(Nikola Dimeski-INKI540)\EasyManagement\obj\Debug\LoginSistem.Form1.resources
+C:\Nikola\Applications C#\LoginSistem\EasyManagement(Nikola Dimeski-INKI540)\EasyManagement\obj\Debug\LoginSistem.Guide.resources
+C:\Nikola\Applications C#\LoginSistem\EasyManagement(Nikola Dimeski-INKI540)\EasyManagement\obj\Debug\LoginSistem.List.resources
+C:\Nikola\Applications C#\LoginSistem\EasyManagement(Nikola Dimeski-INKI540)\EasyManagement\obj\Debug\LoginSistem.Login.resources
+C:\Nikola\Applications C#\LoginSistem\EasyManagement(Nikola Dimeski-INKI540)\EasyManagement\obj\Debug\LoginSistem.Properties.Resources.resources
+C:\Nikola\Applications C#\LoginSistem\EasyManagement(Nikola Dimeski-INKI540)\EasyManagement\obj\Debug\LoginSistem.Register.resources
+C:\Nikola\Applications C#\LoginSistem\EasyManagement(Nikola Dimeski-INKI540)\EasyManagement\obj\Debug\LoginSistem.RegisterEmployee.resources
+C:\Nikola\Applications C#\LoginSistem\EasyManagement(Nikola Dimeski-INKI540)\EasyManagement\obj\Debug\EasyManagement.csproj.GenerateResource.cache
+C:\Nikola\Applications C#\LoginSistem\EasyManagement(Nikola Dimeski-INKI540)\EasyManagement\obj\Debug\EasyManagement.csproj.CoreCompileInputs.cache
+C:\Nikola\Applications C#\LoginSistem\EasyManagement(Nikola Dimeski-INKI540)\EasyManagement\obj\Debug\Easy Management(Nikola Dimeski INKI540).exe
+C:\Nikola\Applications C#\LoginSistem\EasyManagement(Nikola Dimeski-INKI540)\EasyManagement\obj\Debug\Easy Management(Nikola Dimeski INKI540).pdb
